@@ -1,6 +1,6 @@
 # react-native-device-size
 
-Get current device size in react-native
+classify mobile device size in react-native.
 
 ## Usage
 

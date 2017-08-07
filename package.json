@@ -1,7 +1,7 @@
 {
   "name": "react-native-device-size",
   "version": "0.1.0",
-  "description": "simple get device size in react-native",
+  "description": "classify mobile device size in react-native",
   "devDependencies": {
     "babel-eslint": "^7.2.3",
     "eslint": "^4.4.0",
