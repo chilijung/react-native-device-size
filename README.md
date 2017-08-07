@@ -14,10 +14,12 @@ console.log(deviceSize); // return one of xsmall, small, normal, large, xlarge
 
 iOS and android use different standard to classify, iOS use iphone versions, and android use [official classification](https://developer.android.com/guide/practices/screens_support.html) .
 
-> xlarge screens are at least 960dp x 720dp
-> large screens are at least 640dp x 480dp
-> normal screens are at least 470dp x 320dp
-> small screens are at least 426dp x 320dp 
+According to the documents:
+
+- xlarge screens are at least 960dp x 720dp
+- large screens are at least 640dp x 480dp
+- normal screens are at least 470dp x 320dp
+- small screens are at least 426dp x 320dp 
 
 #### xsmall
 
