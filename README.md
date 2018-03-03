@@ -1,5 +1,7 @@
 # react-native-device-size
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Canner/react-native-device-size.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/Canner/react-native-device-size.svg?branch=master)](https://travis-ci.org/Canner/react-native-device-size)
 
 classify mobile device size in react-native.
