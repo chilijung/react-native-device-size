@@ -3,14 +3,14 @@
   "version": "0.1.0",
   "description": "classify mobile device size in react-native",
   "devDependencies": {
-    "babel-eslint": "^7.2.3",
+    "babel-eslint": "^8.2.2",
     "eslint": "^4.4.0",
     "eslint-config-google": "^0.9.1",
-    "flow-bin": "^0.52.0",
-    "jest": "^20.0.4",
+    "flow-bin": "^0.66.0",
+    "jest": "^22.4.2",
     "jest-react-native": "^18.0.0",
-    "react": "16.0.0-alpha.12",
-    "react-native": "^0.46.1"
+    "react": "16.2.0",
+    "react-native": "^0.54.0"
   },
   "main": "./index",
   "scripts": {
